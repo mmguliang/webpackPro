@@ -1,0 +1,1 @@
+document.body.append(function(){let e=document.createElement("div");return e.innerHTML="index: Hello, webpack",e.classList.add("title"),e}());
